@@ -1,0 +1,19 @@
+body{
+    background-color: #87CEEB;
+    text-align: center
+}
+
+#timer{
+    width: 250px;
+  height: 250px;
+  background: linear-gradient(to right, #00c6ff, #0072ff); /* グラデーション */
+  border-radius: 50%; /* 円形にする */
+  display : flex;
+  justify-content: center; /*横方向の中央*/
+  align-items:center;  /*縦方向の中央*/
+}
+
+button{
+    border-radius : 30px;
+    color : #00BFFF;
+}
