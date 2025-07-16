@@ -11,6 +11,14 @@ body{
   display : flex;
   justify-content: center; /*横方向の中央*/
   align-items:center;  /*縦方向の中央*/
+  font-size:40px;
+}
+/*timerをどう記載するか*/
+.container{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height : 50vh;
 }
 
 button{
